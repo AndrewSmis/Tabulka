@@ -1,0 +1,1 @@
+Školní práce na SI a WAP. Tøída pro vytvoøení tabulky. Pøíklad k pouití tøídy je v souboru priklad.php
